@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
-  ]
+  ],
    "reviewers": ["team-member1", "team-member2"],
   "labels": ["dependencies", "renovate"]
     
